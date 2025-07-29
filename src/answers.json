@@ -1,0 +1,302 @@
+[
+  {
+    "id": 101,
+    "preguntaId": 1,
+    "texto": "A) Ir a un festival con amigos y música",
+    "puntos": 1
+  },
+  {
+    "id": 102,
+    "preguntaId": 1,
+    "texto": "B) Disfrutar una charla tranquila con vino y velas",
+    "puntos": 2
+  },
+  {
+    "id": 103,
+    "preguntaId": 1,
+    "texto": "C) Salir a bailar con energía",
+    "puntos": 3
+  },
+  {
+    "id": 104,
+    "preguntaId": 1,
+    "texto": "D) Tomar algo refrescante mientras ves el atardecer",
+    "puntos": 4
+  },
+  {
+    "id": 105,
+    "preguntaId": 1,
+    "texto": "E) Probar algo totalmente distinto y atrevido",
+    "puntos": 5
+  },
+  {
+    "id": 201,
+    "preguntaId": 2,
+    "texto": "A) Alegre, sociable y espontánea",
+    "puntos": 1
+  },
+  {
+    "id": 202,
+    "preguntaId": 2,
+    "texto": "B) Romántica, sensible y detallista",
+    "puntos": 2
+  },
+  {
+    "id": 203,
+    "preguntaId": 2,
+    "texto": "C) Dinámica, intensa y energética",
+    "puntos": 3
+  },
+  {
+    "id": 204,
+    "preguntaId": 2,
+    "texto": "D) Fresca, relajada y práctica",
+    "puntos": 4
+  },
+  {
+    "id": 205,
+    "preguntaId": 2,
+    "texto": "E) Misteriosa, creativa y única",
+    "puntos": 5
+  },
+  {
+    "id": 301,
+    "preguntaId": 3,
+    "texto": "A) “Fluye como el agua de jamaica”",
+    "puntos": 1
+  },
+  {
+    "id": 302,
+    "preguntaId": 3,
+    "texto": "B) “Todo con amor... y un toque dulce”",
+    "puntos": 2
+  },
+  {
+    "id": 303,
+    "preguntaId": 3,
+    "texto": "C) “¡Vamos con todo o nada!”",
+    "puntos": 3
+  },
+  {
+    "id": 304,
+    "preguntaId": 3,
+    "texto": "D) “Relax, pero con estilo”",
+    "puntos": 4
+  },
+  {
+    "id": 305,
+    "preguntaId": 3,
+    "texto": "E) “Soy la edición limitada de la vida”",
+    "puntos": 5
+  },
+  {
+    "id": 401,
+    "preguntaId": 4,
+    "texto": "A) Rosa o bugambilia",
+    "puntos": 1
+  },
+  {
+    "id": 402,
+    "preguntaId": 4,
+    "texto": "B) Rojo o vino",
+    "puntos": 2
+  },
+  {
+    "id": 403,
+    "preguntaId": 4,
+    "texto": "C) Naranja neón",
+    "puntos": 3
+  },
+  {
+    "id": 404,
+    "preguntaId": 4,
+    "texto": "D) Amarillo o coral",
+    "puntos": 4
+  },
+  {
+    "id": 405,
+    "preguntaId": 4,
+    "texto": "E) Negro o morado profundo",
+    "puntos": 5
+  },
+  {
+    "id": 501,
+    "preguntaId": 5,
+    "texto": "A) Bailar en una feria con agua fresca en mano 🌺",
+    "puntos": 1
+  },
+  {
+    "id": 502,
+    "preguntaId": 5,
+    "texto": "B) Picnic con frutas y buena compañía 🍓",
+    "puntos": 2
+  },
+  {
+    "id": 503,
+    "preguntaId": 5,
+    "texto": "C) Fiesta con DJ y shots en la terraza 💃",
+    "puntos": 3
+  },
+  {
+    "id": 504,
+    "preguntaId": 5,
+    "texto": "D) Tarde soleada con una bebida burbujeante 🍊",
+    "puntos": 4
+  },
+  {
+    "id": 505,
+    "preguntaId": 5,
+    "texto": "E) Irte a lo desconocido sin planear nada 🐍",
+    "puntos": 5
+  },
+  {
+    "id": 601,
+    "preguntaId": 6,
+    "texto": "A) “¡Qué bonito!”",
+    "puntos": 1
+  },
+  {
+    "id": 602,
+    "preguntaId": 6,
+    "texto": "B) “Awww 🥺”",
+    "puntos": 2
+  },
+  {
+    "id": 603,
+    "preguntaId": 6,
+    "texto": "C) “¡Esooo!”",
+    "puntos": 3
+  },
+  {
+    "id": 604,
+    "preguntaId": 6,
+    "texto": "D) “Uuuh, esto se pone interesante”",
+    "puntos": 4
+  },
+  {
+    "id": 605,
+    "preguntaId": 6,
+    "texto": "E) “Esto no me lo esperaba… ¡me encanta!”",
+    "puntos": 5
+  },
+  {
+    "id": 701,
+    "preguntaId": 7,
+    "texto": "A) Un jardín lleno de flores y calma",
+    "puntos": 1
+  },
+  {
+    "id": 702,
+    "preguntaId": 7,
+    "texto": "B) Una cabaña con frutas del bosque",
+    "puntos": 2
+  },
+  {
+    "id": 703,
+    "preguntaId": 7,
+    "texto": "C) Un bar moderno con luces neón",
+    "puntos": 3
+  },
+  {
+    "id": 704,
+    "preguntaId": 7,
+    "texto": "D) Una playa al atardecer",
+    "puntos": 4
+  },
+  {
+    "id": 705,
+    "preguntaId": 7,
+    "texto": "E) Un callejón misterioso con grafitis chidos",
+    "puntos": 5
+  },
+  {
+    "id": 801,
+    "preguntaId": 8,
+    "texto": "A) Cumbia sabrosita",
+    "puntos": 1
+  },
+  {
+    "id": 802,
+    "preguntaId": 8,
+    "texto": "B) Canciones románticas para cantar a todo pulmón",
+    "puntos": 2
+  },
+  {
+    "id": 803,
+    "preguntaId": 8,
+    "texto": "C) Reguetón del que retumba el pecho",
+    "puntos": 3
+  },
+  {
+    "id": 804,
+    "preguntaId": 8,
+    "texto": "D) Algo relajado con ritmo tropical",
+    "puntos": 4
+  },
+  {
+    "id": 805,
+    "preguntaId": 8,
+    "texto": "E) Electrónica, tribal, o cosas que ni tienen letra",
+    "puntos": 5
+  },
+  {
+    "id": 901,
+    "preguntaId": 9,
+    "texto": "A) Románticas y suave",
+    "puntos": 1
+  },
+  {
+    "id": 902,
+    "preguntaId": 9,
+    "texto": "B) Sentimentales con finales dulces",
+    "puntos": 2
+  },
+  {
+    "id": 903,
+    "preguntaId": 9,
+    "texto": "C) Intensas, con giros inesperados",
+    "puntos": 3
+  },
+  {
+    "id": 904,
+    "preguntaId": 9,
+    "texto": "D) Divertidas y fáciles de ver",
+    "puntos": 4
+  },
+  {
+    "id": 905,
+    "preguntaId": 9,
+    "texto": "E) Raras, de culto o con finales abiertos",
+    "puntos": 5
+  },
+  {
+    "id": 1001,
+    "preguntaId": 10,
+    "texto": "A) Refrescante y floral",
+    "puntos": 1
+  },
+  {
+    "id": 1002,
+    "preguntaId": 10,
+    "texto": "B) Dulce con un toque ácido",
+    "puntos": 2
+  },
+  {
+    "id": 1003,
+    "preguntaId": 10,
+    "texto": "C) Fuerte pero encantador",
+    "puntos": 3
+  },
+  {
+    "id": 1004,
+    "preguntaId": 10,
+    "texto": "D) Cítrico, divertido y buena onda",
+    "puntos": 4
+  },
+  {
+    "id": 1005,
+    "preguntaId": 10,
+    "texto": "E) Inesperado, pero memorable",
+    "puntos": 5
+  }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "pregunta": "1. ¿Qué plan te suena más divertido para un viernes por la tarde?"
+    },
+    {
+        "id": 2,
+        "pregunta": "2. ¿Cómo describirías tu personalidad en pocas palabras?"
+    },
+    {
+        "id": 3,
+        "pregunta": "3. ¿Qué frase te describe mejor?"
+    },
+    {
+        "id":4,
+        "pregunta": "4. ¿Qué color te atrae más de estos?"
+    },
+    {
+        "id": 5,
+        "pregunta": "5. ¿Cuál sería tu plan ideal un sábado por la tarde?"
+    },
+    {
+        "id": 6,
+        "pregunta": "6. ¿Cómo reaccionas ante una sorpresa?"
+    },
+    {
+        "id": 7,
+        "pregunta": "7. Si fueras un lugar, ¿serías...?"
+    },
+    {
+        "id": 8,
+        "pregunta": "8. ¿Qué tipo de música te hace bailar aunque no quieras?"
+    },
+    {
+        "id": 9,
+        "pregunta": "9. ¿Qué tipo de películas te gustan más?"
+    },
+    {
+        "id": 10,
+        "pregunta": "10. ¿Qué sabor te describe mejor?"
+    }
+]
