@@ -72,7 +72,7 @@ function Result() {
 
         {/* Modelo 3D principal */}
         <model-viewer
-          src={`/models/${['rueda3d.glb', 'planta3d.glb', 'sombrero3d.glb', 'corazon.glb', 'coa3d.glb'][modelo]}`}
+          src={`/Coa/models/${['rueda3d.glb', 'planta3d.glb', 'sombrero3d.glb', 'corazon.glb', 'coa3d.glb'][modelo]}`}
           alt="Resultado"
           auto-rotate
           camera-controls

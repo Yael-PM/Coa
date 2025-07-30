@@ -40,7 +40,7 @@ const Wallpaper = ({ pagina, children }) => {
       {modelosParaPagina.map((modelo, index) => (
         <model-viewer
           key={index}
-          src={`/models/${modelo}`}
+          src={`/Coa/models/${modelo}`}
           auto-rotate
           interaction-prompt="none"
           camera-controls

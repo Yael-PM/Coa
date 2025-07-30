@@ -25,7 +25,7 @@ function Card({ preguntas, respuestas }) {
         if (paginaActual < totalPaginas) {
             setPaginaActual(p => p + 1);
         } else {
-            window.location.href = '/resultado';
+            window.location.href = '/Coa/resultado';
         }
     };
 
